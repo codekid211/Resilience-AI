@@ -50,9 +50,14 @@ While the application functions as intended and screenshots are available to dem
 
 ## Screenshots
 
-![Home Page](assets\home.png)  
-![Working Models](assets\working_models.png)
-![Sample of Translator model](assets/translator.png)  
+## Home Page
+![Home Page](assets/home.png) 
+
+## All the working models
+![Working Models](assets/working_models.png)
+
+## Working of one of the model
+![Sample of Translator model](assets/translator.png)
 ![Sample of Translator model](assets/translator_input.png)
 ![Sample of Translator model](assets/translator_output.png)    
 
