@@ -5,6 +5,9 @@
 
 In cancer care, patients and caregivers often struggle to comprehend diagnostic procedures and treatment choices. This project proposes a GenAI-based interactive oncology resource specifically designed for breast cancer patients and caregivers. The resource aims to enhance understanding, provide emotional support, and streamline the management of health information.
 
+## Architecture 
+![Architecture](assets/Arch.png)
+
 ## Features
 
 ### For Patients 🤒🏥
